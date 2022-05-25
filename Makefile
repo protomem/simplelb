@@ -5,6 +5,6 @@ build:
 
 .PHONY: run
 run: build
-	./build/restapi
+	./build/lb
 
 
